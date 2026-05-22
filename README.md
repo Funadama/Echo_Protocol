@@ -1,8 +1,5 @@
 # Exams_Group1
 
-
-# Geproduceerde Game Onderdelen
-
 ## Wiki
 
 [Agile Planning](https://github.com/Wes34840/Exams_Group1/wiki/Agile-Planning)
@@ -13,9 +10,9 @@
 
 - [Definition of Done](https://github.com/Wes34840/Exams_Group1/wiki/Definition-of-Done)
 
-- [Functioneel Ontwerp](https://github.com/Wes34840/Exams_Group1/wiki/Functioneel-Ontwerp)
+- [Functional Design](https://github.com/Wes34840/Exams_Group1/wiki/Functional-Design)
 
-- [Technisch Ontwerp](https://github.com/Wes34840/Exams_Group1/wiki/Technisch-Ontwerp)
+- [Technical Design](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design)
 
 - [Gitflow](https://github.com/Wes34840/Exams_Group1/wiki/Gitflow)
 
@@ -23,22 +20,36 @@
 
 - [Testfootage](https://github.com/Wes34840/Exams_Group1/wiki/Testfootage)
 
-### Notulen
-- [Notulen Sprints](https://github.com/Wes34840/Exams_Group1/wiki/Notulen)
+### Archives
+- [Archive Sprints](https://github.com/Wes34840/Exams_Group1/wiki/Archive-Sprints)
 
-- [Notulen Afwezigheid Meldingen](https://github.com/Wes34840/Exams_Group1/wiki/Notulen-Afwezigheid-Meldingen)
+- [Archive Absentees](https://github.com/Wes34840/Exams_Group1/wiki/Archive-Absentees)
 
-- [Notulen Meetings](https://github.com/Wes34840/Exams_Group1/wiki/Notulen-Meetings)
+- [Archive Meetings](https://github.com/Wes34840/Exams_Group1/wiki/Archive-Meetings)
 
-- [Notulen StandUp](https://github.com/Wes34840/Exams_Group1/wiki/Notulen-StandUp)
+- [Archive StandUp](https://github.com/Wes34840/Exams_Group1/wiki/Archive-StandUp)
 
-- [Notulen StandDown](https://github.com/Wes34840/Exams_Group1/wiki/Notulen-StandDown)
+- [Archive StandDown](https://github.com/Wes34840/Exams_Group1/wiki/Archive-StandDown)
+
+- [CodeBase](https://github.com/Wes34840/Exams_Group1/wiki/Codebase)
 
 
 # Who Did What?
-## Devolopers
+## Developers
 ### Wessel
+* [StatusEffects](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#entityspawning)
+* [Server Hosting](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#server-hosting)
+* [GameLoop](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#gameloop)
+* [VFX System](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#comp_flipbookvfx)
+* [Health Component](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#health-component)
+* [Mana Component](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#mana-component)
+* Assisting artists with importing, implementing and optimizing assets
+
 ### Isaac
+* [SkillCheck Widget](https://github.com/Wes34840/Exams_Group1/wiki/Codebase)
+* [EntitySpawning](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#entityspawning)
+* [EntityDisplay](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#entity-display)
+* [Entities](https://github.com/Wes34840/Exams_Group1/wiki/Technical-Design#entityspawning)
 ### Dylan
 ## Artists
 ### Vash
