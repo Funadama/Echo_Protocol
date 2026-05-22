@@ -1,5 +1,7 @@
 # Exams_Group1
 
+https://github.com/user-attachments/assets/0bf9d69a-f6a4-4317-8a86-958923d3d5aa
+
 ## Wiki
 
 [Agile Planning](https://github.com/Wes34840/Exams_Group1/wiki/Agile-Planning)
